@@ -1,0 +1,19 @@
+2026-09-14 21:24:46,Benito,juarez,89,1.37,883737,Hombre
+2026-09-14 21:48:18,Carlos ,uriel,19,1.7,849303,Hombre
+2026-10-09 23:23:08,carlos,uriel,19,1.7,37337737,Hombre
+Fecha: 2026-10-09 23:35:10
+Nombres: carlos
+Apellidos: uriel
+Edad: 19
+Estatura: 1.70
+Teléfono: 8737373374
+Género: Hombre
+
+Fecha: 2026-10-10 00:53:15
+Nombres: carlos uriel
+Apellidos: solar peres
+Edad: 19
+Estatura: 1.70
+Teléfono: 8987654330
+Género: Hombre
+
