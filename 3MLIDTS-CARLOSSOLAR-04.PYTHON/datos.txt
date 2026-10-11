@@ -17,3 +17,11 @@ Estatura: 1.70
 Teléfono: 8987654330
 Género: Hombre
 
+Fecha: 2026-10-10 19:54:03
+Nombres: carlos
+Apellidos: uriel
+Edad: 98
+Estatura: 1.70
+Teléfono: 0983902222
+Género: Hombre
+
